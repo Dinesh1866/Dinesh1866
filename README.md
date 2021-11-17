@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 I love to spend time at <strong>GitHub</strong> :octocat:
 
 
-⚡ In my free time, I love to play, listen to songs <img src="pics/songs.png" height="20vh">, read Books<img src="pics/book.jpg" height="20vh"> and watch Documentries <img src="pics/movies.png" height="20vh"> 
+⚡ In my free time, I love to play, listen to songs <img src="pics/songs.png" height="20vh">, read Books<img src="pics/book.jpg" height="15vh"> and watch Documentries <img src="pics/movies.png" height="20vh"> 
 (get connected for some nice recommendations too :P). </h4><br>
 
 <a href="https://github.com/Dinesh1866">
@@ -83,7 +83,6 @@ I love to spend time at <strong>GitHub</strong> :octocat:
   </a>
 </div><hr>
 
-<!---![GitHub metrics](https://metrics.lecoq.io/Dinesh1866?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta)--->
 
 ## Badges
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
