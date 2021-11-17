@@ -1,3 +1,5 @@
+Building from scratch again! profile under construction and deleting previous repos!
+
 - 👋 Hi, I’m @Dinesh1866
 - 👀 I’m interested in Web Developement, Designing, reading Books and learning new stuffs everyday
 - 🌱 I’m currently learning Python,DS algo, HTML and CSS
