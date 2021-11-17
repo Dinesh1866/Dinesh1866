@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 I love to spend time at <strong>GitHub</strong> :octocat:
 
 
-⚡ In my free time, I love to play, listen to songs  <img src="pics/songs.png" height="20vh"> and watch Documentries <img src="pics/movies.png" height="20vh"> 
+⚡ In my free time, I love to play, listen to songs <img src="pics/songs.png" height="20vh">, read Books and watch Documentries <img src="pics/movies.png" height="20vh"> 
 (get connected for some nice recommendations too :P). </h4><br>
 
 <a href="https://github.com/Dinesh1866">
