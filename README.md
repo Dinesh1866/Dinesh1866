@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
  
 👉 Founder of <strong>InsightMonkeys</strong> <br>
 👉 learning<strong>DevOps tools and pipelines</strong> <br>
-👉 <strong>Microsoft Learn Student </strong>  <img src="pics/mlsa.png" height="20vh"> <br>
+👉 <strong>Microsoft Learn Student </strong>  <img src="pics/azure.svg" height="20vh"> <br>
 👉 member of <strong>Azure Developer Community </strong> <img src="pics/azdev.png" height="20vh"><br>
 
 I love to spend time at <strong>GitHub</strong> :octocat:
