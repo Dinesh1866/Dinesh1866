@@ -28,7 +28,7 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 
 
 ⚡ In my free time, I love to play, listen to songs <img src="pics/songs.png" height="20vh">, read Books<img src="pics/book.jpg" height="15vh"> and watch Documentries <img src="pics/movies.png" height="20vh"> 
-(get connected for some nice recommendations too :P). </h4><br>
+(will give you some good recommendations too :P). </h4><br>
 
 <a href="https://github.com/Dinesh1866">
     <img src="https://komarev.com/ghpvc/?username=Dinesh1866&color=dc143c&style=plastic">
@@ -59,7 +59,7 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 <div class="footer" id="top3">
   <center> 
    <a href="https://www.linkedin.com/in/dinesh-1866" class="pics"><img src="pics/linkedin.svg" height="36vh">  </a>
-   <a href="https://github.com/Dinesh1866" class="pics"> <img src="pics/github.svg" height="36vh"></center></a>
+  <!--- <a href="https://github.com/Dinesh1866" class="pics"> <img src="pics/github.svg" height="36vh"></center></a> --->
     <a href="https://www.twitter.com/dinesh_1866" class="pics"><img src="pics/twitter.svg" height="36vh">  </a>
     <a href="https://www.instagram.com/dinesh_sanjay_1866" class="pics"><img src="pics/instagram.svg" height="36vh">  </a>
    <a href="https://www.youtube.com/channel/UC_k0p6pazPKFAzt1obuQt7A" class="pics"><img src="pics/youtube.svg" height="36vh"></a>
