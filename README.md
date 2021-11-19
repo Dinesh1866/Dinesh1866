@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Ambivert,Neophile%2C+love+challenges...)](https://git.io/typing-svg)
   <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
  
-👉 Founder of <strong>InsightMonkeys</strong> <br>
+👉 Founder of <strong>InsightMonkeys</strong> and <strong>Inainthu Sai Matram Kann</strong> <br>
 👉 learning <strong>DevOps tools and pipelines</strong> <br>
 👉 <strong>Microsoft Learn Student </strong>  <img src="pics/azure.svg" height="20vh"> <br>
 👉 member of <strong>Azure Developer Community </strong> <img src="pics/azdev.png" height="20vh"><br>
