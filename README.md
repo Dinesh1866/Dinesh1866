@@ -62,7 +62,7 @@ I love to spend time at <strong>GitHub</strong> :octocat:
    <a href="https://github.com/Dinesh1866" class="pics"> <img src="pics/github.svg" height="36vh"></center></a>
     <a href="https://www.twitter.com/dinesh_1866" class="pics"><img src="pics/twitter.svg" height="36vh">  </a>
     <a href="https://www.instagram.com/dinesh_sanjay_1866" class="pics"><img src="pics/instagram.svg" height="36vh">  </a>
-   <a href="https://www.youtube.com/c/insightmonkeys" class="pics"><img src="pics/youtube.svg" height="36vh"></a>
+   <a href="https://www.youtube.com/c/Insight Monkeys" class="pics"><img src="pics/youtube.svg" height="36vh"></a>
      <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=todinesh18@gmail.com" class="pics"><img src="pics/gmail.svg" height="36vh"></a>
   
   </div>
