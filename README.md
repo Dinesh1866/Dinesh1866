@@ -89,4 +89,4 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 </a> <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 
-Note:- Contribution stats of the private repos are not shown in the given below GitHub Contribution Graph.
+Note:- Contribution stats of the private repos are not shown in the given below GitHub Contribution Graph!.
