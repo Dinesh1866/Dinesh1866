@@ -19,15 +19,15 @@ You can click the Preview link to take a look at your changes.
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Ambivert,Neophile%2C+love+challenges...)](https://git.io/typing-svg)
   <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
  
-👉 Founder of <strong>InsightMonkeys</strong> and <strong>Inainthu Sei Maatram Kaann</strong> <br>
-👉 learning <strong>DevOps tools and pipelines</strong> <br>
-👉 <strong>Microsoft Learn Student </strong>  <img src="pics/azure.svg" height="20vh"> <br>
-👉 member of <strong>Azure Developer Community </strong> <img src="pics/azdev.png" height="20vh"><br>
+👉 Founder of **InsightMonkeys** and **Inainthu Sei Maatram Kaann** <br>
+👉 learning **DevOps tools and pipelines** <br>
+👉 **Microsoft Learn Student**  <img src="pics/azure.svg" height="20vh"> <br>
+👉 member of **Azure Developer Community** <img src="pics/azdev.png" height="20vh"><br>
 
-I love to spend time at <strong>GitHub</strong> :octocat:
+I love to spend time at **trying new stuffs**  :octocat:
 
 
-⚡ In my free time, I love to play, listen to songs <img src="pics/songs.png" height="20vh">, read Books<img src="pics/book.jpg" height="15vh"> and watch Documentries <img src="pics/movies.png" height="20vh"> 
+⚡ In my free time, I love to play, listen to songs <img src="pics/songs.png" height="20vh">, read Books<img src="pics/book.jpg" height="15vh"> and watch Documentries<img src="pics/movies.png" height="20vh"> 
 (will give you some good recommendations too :P). </h4><br>
 
 <a href="https://github.com/Dinesh1866">
@@ -89,4 +89,4 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 </a> <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 
-Note:- Contribution stats of the private repos are not shown in the given below GitHub Contribution Graph!.
+_Note:- Contribution stats of the private repos are not shown in the given below GitHub Contribution Graph!._
