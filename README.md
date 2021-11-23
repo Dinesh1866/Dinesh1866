@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 👉 **Microsoft Learn Student**  <img src="pics/azure.svg" height="20vh"> <br>
 👉 member of **Azure Developer Community** <img src="pics/azdev.png" height="20vh"><br>
 
-I love to spend time at **trying new stuffs**  :octocat:
+I love to spend time at **trying out new stuffs**  :octocat:
 
 
 ⚡ In my free time, I love to play, listen to songs <img src="pics/songs.png" height="20vh">, read Books<img src="pics/book.jpg" height="15vh"> and watch Documentries<img src="pics/movies.png" height="20vh"> 
