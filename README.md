@@ -47,7 +47,6 @@ I love to spend time at **trying out new stuffs**  :octocat:
 <a href= "https://azure.microsoft.com"> <img width ='32px' src ='pics/azure.svg'> </a>
 <a href= "https://cloud.google.com"> <img width ='32px' src ='pics/googlecloud.svg'> </a>
 <a href= "https://www.linux.org/"> <img width ='32px' src ='pics/linux.svg'> </a></p>
-<!-- <a href= https://github.com/Dinesh1866 > <img width ='32px' src ='pics/jupyter.svg'> </a> --->
 
 <br>
 
