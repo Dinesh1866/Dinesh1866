@@ -33,7 +33,7 @@ I love to spend time at **trying out new stuffs**  :octocat:
 <a href="https://github.com/Dinesh1866">
     <img src="https://komarev.com/ghpvc/?username=Dinesh1866&color=dc143c&style=plastic">
 </a> 
- <a href="https://github.com/Dinesh1866?tab=followers"><img src="https://img.shields.io/github/followers/Dinesh1866?label=Followers&style=social" alt="GitHub Badge"></a>
+ <!---<a href="https://github.com/Dinesh1866?tab=followers"><img src="https://img.shields.io/github/followers/Dinesh1866?label=Followers&style=social" alt="GitHub Badge"></a> --->
 
 <p><h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2><br>
 <a href= https://github.com/Dinesh1866 > <img width ='32px' src ='pics/html.svg'> </a>
