@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
  
 👉 Founder of **InsightMonkeys** and **Inainthu Sei Maatram Kaann** <br>
-👉 learning **DevOps tools and pipelines** <br>
+👉 learning **DevOps and tools** <br>
 👉 **Microsoft Learn Student**  <img src="pics/azure.svg" height="20vh"> <br>
 👉 member of **Azure Developer Community** <img src="pics/azdev.png" height="20vh"><br>
 
