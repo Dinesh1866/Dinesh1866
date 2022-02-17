@@ -36,18 +36,18 @@ I love to spend time at **trying out new stuffs**  :octocat:
  <!---<a href="https://github.com/Dinesh1866?tab=followers"><img src="https://img.shields.io/github/followers/Dinesh1866?label=Followers&style=social" alt="GitHub Badge"></a> --->
 
 <p><h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2><br>
+<a href= "https://www.linux.org/"> <img width ='32px' src ='pics/linux.svg'> </a>
+<a href= "https://azure.microsoft.com"> <img width ='32px' src ='pics/azure.svg'> </a>
+<a href= "https://www.oracle.com/in/cloud/"> <img width ='32px' src ='pics/OCI.png'> </a>
+<a href= "https://aws.amazon.com"> <img width ='32px' src ='pics/aws.svg'> </a>
+<a href= https://github.com/Dinesh1866 > <img width ='32px' src ='pics/python.svg'> </a>
+<a href= "https://git-scm.com/"> <img width ='32px' src ='pics/git.svg'> </a>
+<a href= "https://github.com/Dinesh1866"> <img width ='32px' src ='pics/github.svg'> </a>
+<a href= "https://cloud.google.com"> <img width ='32px' src ='pics/googlecloud.svg'> </a>
 <a href= https://github.com/Dinesh1866 > <img width ='32px' src ='pics/html.svg'> </a>
 <a href= https://github.com/Dinesh1866 > <img width ='32px' src ='pics/css.svg'> </a>
 <a href= https://github.com/Dinesh1866 > <img width ='32px' src ='pics/bootstrap.svg'> </a>
-<a href= https://github.com/Dinesh1866 > <img width ='32px' src ='pics/python.svg'> </a>
-<a href= "https://www.mysql.com/"> <img width ='32px' src ='pics/mysql.svg'> </a>
-<a href= "https://git-scm.com/"> <img width ='32px' src ='pics/git.svg'> </a>
-<a href= "https://github.com/Dinesh1866"> <img width ='32px' src ='pics/github.svg'> </a>
-<a href= "https://aws.amazon.com"> <img width ='32px' src ='pics/aws.svg'> </a>
-<a href= "https://azure.microsoft.com"> <img width ='32px' src ='pics/azure.svg'> </a>
-<a href= "https://cloud.google.com"> <img width ='32px' src ='pics/googlecloud.svg'> </a>
-<a href= "https://www.linux.org/"> <img width ='32px' src ='pics/linux.svg'> </a></p>
-
+<a href= "https://www.mysql.com/"> <img width ='32px' src ='pics/mysql.svg'> </a></p>
 <br>
 
 
