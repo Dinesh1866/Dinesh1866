@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h4 align="center"> 
   
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"/>, I'm Dineshkumar</h1>
+<h1 align="center">Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"/>, I'm Dinesh</h1>
  
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Ambivert,Neophile%2C+love+challenges...)](https://git.io/typing-svg)
