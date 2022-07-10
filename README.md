@@ -71,7 +71,7 @@ I love to spend time at **trying out new stuffs**  :octocat:
 <hr/> 
 <img align="left" width="45%" src='https://github-readme-stats.vercel.app/api?username=Dinesh1866&show_icons=true&theme=radical&count_private=true'/>
 <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=Dinesh1866&count_private=true&theme=radical" alt="Dinesh1866"/>
-<img align="left" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh1866&count_private=true&theme=radical&layout=compact" alt="Dinesh1866" />
+<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh1866&count_private=true&theme=radical&layout=compact" alt="Dinesh1866" />
  
 <p align="center"> 
  
