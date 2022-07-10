@@ -69,16 +69,16 @@ I love to spend time at **trying out new stuffs**  :octocat:
 </div>
 
 <hr/> 
-<img align="left" width="49%" src='https://github-readme-stats.vercel.app/api?username=Dinesh1866&show_icons=true&theme=radical&count_private=true'/>
-<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Dinesh1866&count_private=true&theme=radical" alt="Dinesh1866"/>
-<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh1866&count_private=true&theme=radical&layout=compact" alt="Dinesh1866" />
+<img align="left" width="45%" src='https://github-readme-stats.vercel.app/api?username=Dinesh1866&show_icons=true&theme=radical&count_private=true'/>
+<img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=Dinesh1866&count_private=true&theme=radical" alt="Dinesh1866"/>
+<img align="left" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh1866&count_private=true&theme=radical&layout=compact" alt="Dinesh1866" />
  
-<p align="right"> 
+<p align="center"> 
  
 <div align="center">
 <h4>🏆 Github Profile Trophies</h4>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=Dinesh1866&theme=monokai&row=1&column=5">
+<img src="https://github-profile-trophy.vercel.app/?username=Dinesh1866&theme=monokai&row=1&column=4">
 </a>
 </div>
 <hr>
