@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
  
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Ambivert,Neophile%2C+love+challenges...)](https://git.io/typing-svg)
-  <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
+<img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
  
 👉 Founder of **InsightMonkeys** and **Inainthu Sei Maatram Kaann** <br>
 👉 learning **DevOps and tools** <br>
@@ -31,9 +31,9 @@ I love to spend time at **trying out new stuffs**  :octocat:
 (will give you some good recommendations too :P). </h4><br>
 
 <a href="https://github.com/Dinesh1866">
-    <img src="https://komarev.com/ghpvc/?username=Dinesh1866&color=dc143c&style=plastic">
+<img src="https://komarev.com/ghpvc/?username=Dinesh1866&color=dc143c&style=plastic">
 </a> 
- <!---<a href="https://github.com/Dinesh1866?tab=followers"><img src="https://img.shields.io/github/followers/Dinesh1866?label=Followers&style=social" alt="GitHub Badge"></a> --->
+<!---<a href="https://github.com/Dinesh1866?tab=followers"><img src="https://img.shields.io/github/followers/Dinesh1866?label=Followers&style=social" alt="GitHub Badge"></a> --->
 
 <p><h2> Skills & Tools <!---<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>---> </h2><br>
 <a href= https://github.com/Dinesh1866 > <img width ='32px' src ='pics/python.svg'> </a>
@@ -58,36 +58,35 @@ I love to spend time at **trying out new stuffs**  :octocat:
 <!--- <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> --->
 <p align="left">
 <div class="footer" id="top3">
-  <center> 
-   <a href="https://www.linkedin.com/in/dinesh-1866" class="pics"><img src="pics/linkedin.svg" height="36vh">  </a>
-  <!--- <a href="https://github.com/Dinesh1866" class="pics"> <img src="pics/github.svg" height="36vh"></center></a> --->
-    <a href="https://www.twitter.com/DineshkumarS_" class="pics"><img src="pics/twitter.svg" height="36vh">  </a>
-    <a href="https://www.instagram.com/dinesh_sanjay_1866" class="pics"><img src="pics/instagram.svg" height="36vh">  </a>
-   <a href="https://www.youtube.com/channel/UC_k0p6pazPKFAzt1obuQt7A" class="pics"><img src="pics/youtube.svg" height="36vh"></a>
-     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=todinesh18@gmail.com" class="pics"><img src="pics/gmail.svg" height="36vh"></a>
+<center> 
+<a href="https://www.linkedin.com/in/dinesh-1866" class="pics"><img src="pics/linkedin.svg" height="36vh">  </a>
+<!--- <a href="https://github.com/Dinesh1866" class="pics"> <img src="pics/github.svg" height="36vh"></center></a> --->
+<a href="https://www.twitter.com/DineshkumarS_" class="pics"><img src="pics/twitter.svg" height="36vh">  </a>
+<a href="https://www.instagram.com/dinesh_sanjay_1866" class="pics"><img src="pics/instagram.svg" height="36vh">  </a>
+<a href="https://www.youtube.com/channel/UC_k0p6pazPKFAzt1obuQt7A" class="pics"><img src="pics/youtube.svg" height="36vh"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=todinesh18@gmail.com" class="pics"><img src="pics/gmail.svg" height="36vh"></a>
   
-  </div>
-</p>
+</div>
 
-<hr/>
-<img align="left" width="48%" src='https://github-readme-stats.vercel.app/api?username=Dinesh1866&show_icons=true&theme=radical&count_private=true'/>
-</p>
-<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Dinesh1866&count_private=true&theme=radical" alt="Dinesh1866"/>
- <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh1866&count_private=true&theme=radical&layout=compact" alt="Dinesh1866" />
+<hr/> 
+<img align="left" width="49%" src='https://github-readme-stats.vercel.app/api?username=Dinesh1866&show_icons=true&theme=radical&count_private=true'/>
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Dinesh1866&count_private=true&theme=radical" alt="Dinesh1866"/>
+<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh1866&count_private=true&theme=radical&layout=compact" alt="Dinesh1866" />
  
- <p align="center"> 
+<p align="right"> 
  
 <div align="center">
-  <h4>🏆 Github Profile Trophies</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=Dinesh1866&theme=monokai&row=1&column=8">
-  </a>
-</div><hr>
+<h4>🏆 Github Profile Trophies</h4>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=Dinesh1866&theme=monokai&row=1&column=5">
+</a>
+</div>
+<hr>
 
 
 ## Badges
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
-</a> <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 
 _Note:- Contribution stats of the private repos are not shown in the given below GitHub Contribution Graph!._
