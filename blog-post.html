@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Post Title - Dineshkumar Portfolio</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        .prose h2 { font-size: 1.5em; font-weight: 700; margin-top: 2em; margin-bottom: 1em; }
+        .prose p { line-height: 1.75; margin-bottom: 1.25em; }
+        .prose a { color: #2563eb; text-decoration: underline; }
+        .prose blockquote { border-left: 4px solid #d1d5db; padding-left: 1rem; font-style: italic; color: #4b5563; }
+    </style>
+</head>
+<body class="bg-white text-gray-800">
+
+    <!-- Header -->
+    <header id="header" class="bg-white/80 backdrop-blur-md shadow-sm sticky top-0 z-50">
+        <div class="container mx-auto px-6 py-4 flex justify-between items-center">
+            <a href="index.html" class="text-2xl font-bold text-gray-900">Dineshkumar</a>
+            <a href="blogs.html" class="bg-blue-600 text-white font-semibold px-4 py-2 text-sm rounded-lg hover:bg-blue-700 transition-colors">
+                All Posts
+            </a>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-6 py-16">
+        <article class="max-w-6xl mx-auto">
+            <!-- Post Header -->
+            <header class="mb-12">
+                <div class="grid md:grid-cols-5 gap-8 md:gap-12 items-center">
+                    <!-- Featured Image -->
+                    <figure class="order-1 md:col-span-2 max-w-md mx-auto md:max-w-none md:mx-0">
+                        <img src="https://placehold.co/800x800/e2e8f0/4a5568?text=Blog+Image" alt="Abstract image representing web performance" class="w-full h-auto rounded-xl shadow-lg object-cover aspect-square">
+                    </figure>
+
+                    <!-- Title and Meta -->
+                    <div class="order-2 md:col-span-3 flex flex-col justify-center">
+                        <div class="mb-4">
+                            <span class="bg-blue-100 text-blue-800 text-sm font-medium px-3 py-1 rounded-full">Web Development</span>
+                        </div>
+                        <h1 class="text-4xl lg:text-5xl font-extrabold text-gray-900 mb-6 leading-tight">10 Tips for Better Web Performance</h1>
+                        
+                        <!-- Author Info -->
+                        <div class="flex items-center mt-4">
+                            <img src="https://placehold.co/64x64/333333/ffffff?text=JD" alt="Avatar of Dineshkumar" class="w-12 h-12 rounded-full mr-4 border-2 border-white shadow-md">
+                            <div>
+                                <p class="font-bold text-gray-900">Dineshkumar</p>
+                                <p class="text-gray-500 text-sm">Published on <time datetime="2025-07-19">July 19, 2025</time></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Post Content -->
+            <div class="prose lg:prose-xl max-w-3xl mx-auto">
+                <p>Web performance is not just a technical concern; it's a critical component of user experience. A slow website can lead to higher bounce rates, lower conversions, and a frustrated audience. In this post, we'll explore ten actionable tips to help you speed up your site and provide a seamless experience for your visitors.</p>
+                
+                <h2>1. Optimize Your Images</h2>
+                <p>Images are often the largest assets on a web page. Compressing them without sacrificing too much quality is essential. Use modern formats like WebP where possible, and always serve images at the correct size for the user's viewport. Lazy loading offscreen images can also significantly improve initial page load times.</p>
+
+                <h2>2. Minify CSS, JavaScript, and HTML</h2>
+                <p>Minification is the process of removing unnecessary characters (like whitespace, comments, and newlines) from your code. This reduces file sizes and leads to faster downloads and parsing by the browser. Most modern build tools have plugins to automate this process.</p>
+
+                <blockquote>"The fastest request is the one not made." - This old adage holds true. Reducing the number of HTTP requests is a cornerstone of web performance.</blockquote>
+
+                <h2>3. Leverage Browser Caching</h2>
+                <p>By setting appropriate cache headers, you can instruct the browser to store static assets locally. This means that on subsequent visits, the user's browser can load the page without having to re-download every file, resulting in a much faster experience.</p>
+
+                <p>Implementing these strategies will put you well on your way to a faster, more efficient website that your users will love. Performance is an ongoing process, so remember to regularly audit your site and stay up-to-date with the latest best practices.</p>
+            </div>
+        </article>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-gray-300 mt-16">
+        <div class="container mx-auto px-6 py-12">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
+                <!-- About -->
+                <div>
+                    <h3 class="text-xl font-bold text-white mb-4">Dineshkumar</h3>
+                    <p class="text-gray-400">A modern theme for creators, designed and developed with passion.</p>
+                </div>
+                <!-- Links -->
+                <div>
+                    <h3 class="text-xl font-bold text-white mb-4">Quick Links</h3>
+                    <ul class="space-y-2">
+                        <li><a href="index.html#about" class="hover:text-white transition-colors">About</a></li>
+                        <li><a href="index.html#experience" class="hover:text-white transition-colors">Experience</a></li>
+                        <li><a href="index.html#work" class="hover:text-white transition-colors">Work</a></li>
+                        <li><a href="index.html#blogs" class="hover:text-white transition-colors">Blogs</a></li>
+                    </ul>
+                </div>
+                <!-- Social -->
+                <div>
+                    <h3 class="text-xl font-bold text-white mb-4">Follow Me</h3>
+                    <div class="flex justify-center md:justify-start space-x-4">
+                        <a href="#" aria-label="Instagram" class="text-gray-400 hover:text-white"><i data-lucide="instagram" class="w-6 h-6"></i></a>
+                        <a href="#" aria-label="YouTube" class="text-gray-400 hover:text-white"><i data-lucide="youtube" class="w-6 h-6"></i></a>
+                        <a href="#" aria-label="LinkedIn" class="text-gray-400 hover:text-white"><i data-lucide="linkedin" class="w-6 h-6"></i></a>
+                        <a href="#" aria-label="X" class="text-gray-400 hover:text-white"><i data-lucide="twitter" class="w-6 h-6"></i></a>
+                        <a href="#" aria-label="GitHub" class="text-gray-400 hover:text-white"><i data-lucide="github" class="w-6 h-6"></i></a>
+                        <a href="#" aria-label="Snapchat" class="text-gray-400 hover:text-white"><i data-lucide="ghost" class="w-6 h-6"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="mt-12 border-t border-gray-700 pt-8 text-center text-gray-500">
+                <p>&copy; 2024 Dineshkumar. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+</html>
